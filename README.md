@@ -1,6 +1,8 @@
-# Awesome Solo Developer
+<div align="center">
+  <img src="./hammer.png">
+</div>
 
-> Awesome solo developer resource ｜ 独立开发资源分享
+ Awesome solo developer resource ｜ 独立开发资源分享
 
 ## 目录
 - [HTTPS](#HTTPS)
