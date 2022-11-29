@@ -26,7 +26,7 @@
 - [unDraw](https://undraw.co/illustrations) - 免费插画素材
 
 ## Music
-- [Free music for creators](https://uppbeat.io/) - 免费音乐素材
+- [uppbeat.io - Free music for creators](https://uppbeat.io/) - 免费音乐素材
 
 ## Github
 - [shields.io](https://shields.io/) - Github自定义徽章生成器
