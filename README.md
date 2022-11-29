@@ -9,11 +9,9 @@ Awesome solo developer resource ｜ 独立开发资源分享
 [免费CDN服务cloudflare](https://www.cloudflare.com/zh-cn/cdn/)
 [免费CDN服务jsdelivr](https://www.jsdelivr.com/)
 
-## Icons
+## Icons&Images
 - [fontawesome免费图标素材](https://fontawesome.com/)
 - [iconfinder免费图标素材](https://www.iconfinder.com/)
-
-## Images
 - [免费插画素材](https://undraw.co/illustrations)
 
 ## Music
