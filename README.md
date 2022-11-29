@@ -13,24 +13,24 @@
 - [Github](#Github)
 
 ## HTTPS
-- [acme.sh 免费HTTPS证书生成](https://github.com/acmesh-official/acme.sh)
-- [免费的 HTTPS 服务 certbot.eff.org ](https://certbot.eff.org/)
+- [acme.sh](https://github.com/acmesh-official/acme.sh)-免费的 HTTPS 服务
+- [certbot.eff.org ](https://certbot.eff.org/)-免费的HTTPS服务
 
 ## CDN
-- [免费CDN服务cloudflare](https://www.cloudflare.com/zh-cn/cdn/)
-- [免费CDN服务jsdelivr](https://www.jsdelivr.com/)
+- [cloudflare](https://www.cloudflare.com/zh-cn/cdn/)-免费CDN服务
+- [jsdelivr](https://www.jsdelivr.com/)-免费CDN服务
 
 ## Design
-- [fontawesome免费图标素材](https://fontawesome.com/)
-- [iconfinder免费图标素材](https://www.iconfinder.com/)
-- [免费插画素材](https://undraw.co/illustrations)
+- [fontawesome](https://fontawesome.com/) - 免费图标素材
+- [iconfinder](https://www.iconfinder.com/) - 免费图标素材
+- [unDraw](https://undraw.co/illustrations) - 免费插画素材
 
 ## Music
-- [免费音乐素材](https://uppbeat.io/)
+- [Free music for creators](https://uppbeat.io/) - 免费音乐素材
 
 ## Github
-- [Github自定义徽章生成器](https://shields.io/category/license)
-- [Github emoji](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
+- [shields.io](https://shields.io/) - Github自定义徽章生成器
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents) - Github emoji 速查表
 
 ## Contributions
 如果你想参与项目，那就尽管提PR吧～
