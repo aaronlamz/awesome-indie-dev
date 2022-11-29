@@ -30,6 +30,7 @@
 
 ## Github
 - [Github自定义徽章生成器](https://shields.io/category/license)
+- [Github emoji](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
 
 ## Contributions
 如果你想参与项目，那就尽管提PR吧～
