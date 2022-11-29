@@ -20,7 +20,7 @@
 - [免费CDN服务cloudflare](https://www.cloudflare.com/zh-cn/cdn/)
 - [免费CDN服务jsdelivr](https://www.jsdelivr.com/)
 
-## Icons&Images
+## Design
 - [fontawesome免费图标素材](https://fontawesome.com/)
 - [iconfinder免费图标素材](https://www.iconfinder.com/)
 - [免费插画素材](https://undraw.co/illustrations)
