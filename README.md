@@ -3,7 +3,7 @@
 </div>
 
 # Awesome Solo Developer
- Awesome solo developer resource ｜ 独立开发资源分享
+独立开发资源分享
 
 ## 目录
 - [HTTPS](#HTTPS)
