@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="./hammer.png">
+  <img src="./hammer.png" width="50%">
 </div>
 
+# Awesome Solo Developer
  Awesome solo developer resource ｜ 独立开发资源分享
 
 ## 目录
