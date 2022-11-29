@@ -6,8 +6,8 @@ Awesome solo developer resource ｜ 独立开发资源分享
 - [免费的 HTTPS 服务 certbot.eff.org ](https://certbot.eff.org/)
 
 ## CDN
-[免费CDN服务cloudflare](https://www.cloudflare.com/zh-cn/cdn/)
-[免费CDN服务jsdelivr](https://www.jsdelivr.com/)
+- [免费CDN服务cloudflare](https://www.cloudflare.com/zh-cn/cdn/)
+- [免费CDN服务jsdelivr](https://www.jsdelivr.com/)
 
 ## Icons&Images
 - [fontawesome免费图标素材](https://fontawesome.com/)
