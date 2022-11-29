@@ -2,7 +2,7 @@
   <img src="./hammer.png" width="150px">
 </div>
 
-# Awesome Solo Developer Resource
+# Awesome Solo Developer Resources
 独立开发资源分享
 
 ## 目录
