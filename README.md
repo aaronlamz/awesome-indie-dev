@@ -31,5 +31,5 @@
 ## Github
 - [Github自定义徽章生成器](https://shields.io/category/license)
 
-## Contribution
-如果你想参与项目，那就尽管提PR
+## Contributions
+如果你想参与项目，那就尽管提PR吧～
