@@ -33,4 +33,4 @@
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents) - Github emoji 速查表
 
 ## Contributions
-如果你想参与项目，那就尽管提PR吧～
+如果你想参与项目，尽管提PR吧～
