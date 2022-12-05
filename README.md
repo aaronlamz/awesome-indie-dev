@@ -6,11 +6,15 @@
 ⚒️ 独立开发之路资源分享
 
 ## 目录
+- [iOS Dev Learning](#iOSDevLearning)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
+
+## iOS Dev
+- [the swift programming language book](https://docs.swift.org/swift-book/) - Swift 官方文档
 
 ## HTTPS
 - [acme.sh](https://github.com/acmesh-official/acme.sh)-免费的 HTTPS 服务
