@@ -6,14 +6,14 @@
 ⚒️ 独立开发之路资源分享
 
 ## 目录
-- [iOS Dev Learning](#iOSDevLearning)
+- [iOS](#iOS)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
 
-## iOS Dev
+## iOS
 - [The swift programming language book](https://docs.swift.org/swift-book/) - Swift 官方文档
 
 ## HTTPS
