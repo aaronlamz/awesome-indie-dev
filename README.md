@@ -24,6 +24,10 @@
 - [cloudflare](https://www.cloudflare.com/zh-cn/cdn/)-免费CDN服务
 - [jsdelivr](https://www.jsdelivr.com/)-免费CDN服务
 
+## 静态网站托管
+- [cloudflare pages](https://pages.cloudflare.com/) - Cloudflare Pages是一个JAMstack平台，供前端开发人员协作和部署网站。提供免费版本服务。
+- [Vercel](https://vercel.com/) - Vercel是为前端开发者提供的平台，为创新者在灵感迸发的时刻提供所需的速度和可靠性。
+
 ## Design
 - [fontawesome](https://fontawesome.com/) - 免费图标素材
 - [iconfinder](https://www.iconfinder.com/) - 免费图标素材
