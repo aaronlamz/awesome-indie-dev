@@ -2,7 +2,7 @@
   <img src="./hammer.png" width="150px">
 </div>
 
-# ⚒️ 独立开发资源分享
+# 独立开发资源分享
 
 ## 目录
 - [iOS](#iOS)
