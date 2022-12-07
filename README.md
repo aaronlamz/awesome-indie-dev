@@ -2,9 +2,10 @@
   <img src="./hammer.png" width="150px">
 </div>
 
-# 独立开发资源分享
+## 独立开发资源分享
+> Awesome solo developer resources
 
-## 目录
+## Table of Contents
 - [iOS](#iOS)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
