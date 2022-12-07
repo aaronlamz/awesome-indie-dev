@@ -18,12 +18,12 @@
 - [The swift programming language book](https://docs.swift.org/swift-book/) - Swift 官方文档
 
 ## HTTPS
-- [acme.sh](https://github.com/acmesh-official/acme.sh)-免费的 HTTPS 服务
-- [certbot.eff.org ](https://certbot.eff.org/)-免费的HTTPS服务
+- [acme.sh](https://github.com/acmesh-official/acme.sh) - 免费的 HTTPS 服务
+- [certbot.eff.org ](https://certbot.eff.org/) - 免费的HTTPS服务
 
 ## CDN
-- [cloudflare](https://www.cloudflare.com/zh-cn/cdn/)-免费CDN服务
-- [jsdelivr](https://www.jsdelivr.com/)-免费CDN服务
+- [cloudflare](https://www.cloudflare.com/zh-cn/cdn/) - 免费CDN服务
+- [jsdelivr](https://www.jsdelivr.com/) - 免费CDN服务
 
 ## 静态网站托管
 - [cloudflare pages](https://pages.cloudflare.com/) - Cloudflare Pages是一个JAMstack平台，供前端开发人员协作和部署网站。提供免费版本服务。
