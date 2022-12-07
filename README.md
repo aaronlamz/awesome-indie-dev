@@ -9,7 +9,7 @@
 - [iOS](#iOS)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
-- [静态网站托管](#静态网站托管)
+- [Hosting Services](#HostingServices)
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
@@ -25,8 +25,9 @@
 - [cloudflare](https://www.cloudflare.com/zh-cn/cdn/) - 免费CDN服务
 - [jsdelivr](https://www.jsdelivr.com/) - 免费CDN服务
 
-## 静态网站托管
-- [cloudflare pages](https://pages.cloudflare.com/) - Cloudflare Pages是一个JAMstack平台，供前端开发人员协作和部署网站。提供免费版本服务。
+## Hosting Services
+- [Github pages](https://pages.github.com/) - 用过Github的应该都知道这个服务，可以直接部署项目，非常简单易用，可以自定义域名。
+- [Cloudflare pages](https://pages.cloudflare.com/) - Cloudflare Pages是一个JAMstack平台，供前端开发人员协作和部署网站。提供免费版本服务。
 - [Vercel](https://vercel.com/) - Vercel是为前端开发者提供的平台，为创新者在灵感迸发的时刻提供所需的速度和可靠性。
 
 ## Design
