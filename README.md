@@ -9,6 +9,7 @@
 - [iOS](#iOS)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
+- [静态网站托管](#静态网站托管)
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
