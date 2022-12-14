@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./topface.png" height="150px">
+  <img src="./topface.png" height="200px">
 </div>
 
 # Awesome indie dev resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/aaronlamz/awesome-indie-dev-resources?color=brightgreen)
