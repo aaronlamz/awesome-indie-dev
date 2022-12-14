@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./hero.jpeg" width="150px">
+  <img src="./working.png" height="150px">
+  <img src="./topface.png" height="150px">
 </div>
 
 ## Table of Contents
