@@ -45,5 +45,8 @@
 - [shields.io - Github Custom Badge Generator](https://shields.io/) -
 - [emoji-cheat-sheet - Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
 
+## Experience
+- [成为独立开发者第 2 年，这是我个人的编程学习经验](https://sspai.com/post/37643)
+
 ## Contributions
 If you want to participate in the project, feel free to PR ~
