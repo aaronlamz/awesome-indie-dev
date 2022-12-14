@@ -4,7 +4,7 @@
 
 # Awesome indie dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/aaronlamz/awesome-indie-dev-resources?color=brightgreen)
 
-> A curated list of awesome resources related to indie developer 
+> A curated list of awesome resources related to indie dev 
 
 ## Contents
 
