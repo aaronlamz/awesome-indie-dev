@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hammer.png" width="150px">
+  <img src="./hero.jpeg" width="150px">
 </div>
 
 ## Table of Contents
