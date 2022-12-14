@@ -2,7 +2,7 @@
   <img src="./topface.png" height="150px">
 </div>
 
-# Awesome indie dev resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome indie dev resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Community](#Community)
 - [iOS](#iOS)
@@ -49,5 +49,5 @@
 - [成为独立开发者第 2 年，这是我个人的编程学习经验](https://sspai.com/post/37643)
 - [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 
-## Contributions
+### Contributions
 If you want to participate in the project, feel free to PR ~
