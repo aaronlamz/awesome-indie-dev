@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./working.png" height="150px">
   <img src="./topface.png" height="150px">
 </div>
 
