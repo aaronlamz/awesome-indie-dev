@@ -55,6 +55,3 @@
 - [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - [How to Become a Freelance Web Developer in 2023](https://careerfoundry.com/en/blog/web-development/freelance-web-developer/)
 - [Become an independent developer](https://www.reddit.com/r/iOSProgramming/comments/n17zgs/become_an_independent_developer/)
-
-## Contributions
-If you want to participate in the project, feel free to PR ~
