@@ -2,7 +2,7 @@
   <img src="./topface.png" height="150px">
 </div>
 
-# Awesome indie dev resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome indie dev resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![license](https://img.shields.io/github/license/aaronlamz/awesome-indie-dev-resources?color=brightgreen)
 
 > A curated list of indie dev resources
 
@@ -46,7 +46,7 @@
 - [uppbeat.io - Free music for creators](https://uppbeat.io/)
 
 ### Github
-- [shields.io - Github Custom Badge Generator](https://shields.io/) -
+- [shields.io - Github Custom Badge Generator](https://shields.io/)
 - [emoji-cheat-sheet - Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
 
 ### Experience
