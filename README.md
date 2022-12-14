@@ -2,7 +2,7 @@
   <img src="./topface.png" height="150px">
 </div>
 
-## Table of Contents
+## Awesome indie dev resources
 
 - [Community](#Community)
 - [iOS](#iOS)
