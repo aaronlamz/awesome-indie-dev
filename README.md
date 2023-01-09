@@ -36,6 +36,7 @@
 - [Github pages](https://pages.github.com/)
 - [Cloudflare pages](https://pages.cloudflare.com/)
 - [Vercel](https://vercel.com/)
+- [Serverless](https://cn.serverless.com/)
 
 ### Design
 - [fontawesome - Icon materials ](https://fontawesome.com/)
@@ -53,6 +54,5 @@
 ### Experience
 - [成为独立开发者第 2 年，这是我个人的编程学习经验](https://sspai.com/post/37643)
 - [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
-- [How to Become a Freelance Web Developer in 2023](https://careerfoundry.com/en/blog/web-development/freelance-web-developer/)
 - [Become an independent developer](https://www.reddit.com/r/iOSProgramming/comments/n17zgs/become_an_independent_developer/)
 - [side project guide](https://sideproject.guide/)
