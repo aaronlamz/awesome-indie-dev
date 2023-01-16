@@ -6,10 +6,10 @@
 
 > A curated list of awesome resources related to indie dev 
 
-## Contents
+## Table of Contents
 
 - [Community](#Community)
-- [iOS](#iOS)
+- [iOSDev](#iOSDev)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
 - [Hosting](#Hosting)
@@ -21,7 +21,7 @@
 ### Community
 - [indiehackers](https://www.indiehackers.com/)
 
-### iOS
+### iOSDev
 - [The swift programming language book](https://docs.swift.org/swift-book/)
 
 ### HTTPS
