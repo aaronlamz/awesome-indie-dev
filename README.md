@@ -47,7 +47,7 @@
 ### Music
 - [uppbeat.io - Free music for creators](https://uppbeat.io/)
 
-### Github 
+### Github
 - [shields.io - Github Custom Badge Generator](https://shields.io/)
 - [emoji-cheat-sheet - Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
 
