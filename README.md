@@ -56,3 +56,6 @@
 - [作为独立开发者，有哪些可以分享的经验？](https://www.zhihu.com/question/24667846)
 - [Become an independent developer](https://www.reddit.com/r/iOSProgramming/comments/n17zgs/become_an_independent_developer/)
 - [side project guide](https://sideproject.guide/)
+
+## Contributing
+If you want to contributing, feel free to pull request
