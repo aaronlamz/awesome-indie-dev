@@ -58,4 +58,4 @@
 - [side project guide](https://sideproject.guide/)
 
 ## Contributing
-If you want to contributing, feel free to pull request
+Feel free to pull request
