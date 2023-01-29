@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Community](#Community)
-- [iOSDev](#iOSDev)
+- [iOS](#iOS)
 - [HTTPS](#HTTPS)
 - [CDN](#CDN)
 - [Hosting](#Hosting)
@@ -22,7 +22,7 @@
 ### Community
 - [indiehackers](https://www.indiehackers.com/)
 
-### iOSDev
+### iOS
 - [The swift programming language book](https://docs.swift.org/swift-book/)
 
 ### HTTPS
