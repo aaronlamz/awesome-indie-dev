@@ -17,6 +17,7 @@
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
+- [AI](#AI)
 
 ### Community
 - [indiehackers](https://www.indiehackers.com/)
@@ -54,6 +55,9 @@ Way To Build Serverless Apps](https://cn.serverless.com/)
 ### Github
 - [shields.io - Github Custom Badge Generator](https://shields.io/)
 - [emoji-cheat-sheet - Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
+
+### AI
+- [GPT-3 Demo - ChatGPT, AI and GPT-3 Apps and use cases. ](https://gpt3demo.com/map)
 
 ## Contributing
 Feel free to PR
