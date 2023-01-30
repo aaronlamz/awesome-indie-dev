@@ -17,7 +17,6 @@
 - [Design](#Design)
 - [Music](#Music)
 - [Github](#Github)
-- [Experience](#Experience)
 
 ### Community
 - [indiehackers](https://www.indiehackers.com/)
@@ -55,10 +54,6 @@ Way To Build Serverless Apps](https://cn.serverless.com/)
 ### Github
 - [shields.io - Github Custom Badge Generator](https://shields.io/)
 - [emoji-cheat-sheet - Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
-
-### Experience
-- [Become an independent developer](https://www.reddit.com/r/iOSProgramming/comments/n17zgs/become_an_independent_developer/)
-- [side project guide](https://sideproject.guide/)
 
 ## Contributing
 Feel free to PR
