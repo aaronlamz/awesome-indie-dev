@@ -58,6 +58,7 @@ Way To Build Serverless Apps](https://cn.serverless.com/)
 
 ### AI
 - [GPT-3 Demo - ChatGPT, AI and GPT-3 Apps and use cases. ](https://gpt3demo.com/map)
+- [playgroundai - Make any image you can imagine with just text](https://playgroundai.com)
 
 ## Contributing
 Feel free to PR
