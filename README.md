@@ -48,6 +48,7 @@ Way To Build Serverless Apps](https://cn.serverless.com/)
 - [Tabler Icons - Over 3200 pixel-perfect icons for web design](https://tabler-icons.io/)
 - [unDraw - Illustration materials](https://undraw.co/illustrations)
 - [diagrams.net - Drawing Tools](https://app.diagrams.net/)
+- [happyhues - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.](https://www.happyhues.co/)
 
 ### Music
 - [uppbeat.io - Free music for creators](https://uppbeat.io/)
