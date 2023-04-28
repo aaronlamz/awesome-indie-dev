@@ -23,7 +23,7 @@
 - [indiehackers](https://www.indiehackers.com/)
 
 ### iOS
-- [The swift programming language book](https://docs.swift.org/swift-book/)
+- [The swift programming language book](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
 ### HTTPS
 - [acme.sh - Free HTTPS services ](https://github.com/acmesh-official/acme.sh)
