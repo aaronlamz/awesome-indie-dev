@@ -52,6 +52,7 @@ Way To Build Serverless Apps](https://cn.serverless.com/)
 
 ### Music
 - [uppbeat.io - Free music for creators](https://uppbeat.io/)
+- [StagePeek - Interactive 2D & 3D concert seat-view simulator for 201 global venues](https://stagepeek.live/)
 
 ### Github
 - [shields.io - Github Custom Badge Generator](https://shields.io/)
